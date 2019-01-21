@@ -20,7 +20,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  
+  array_numbers = [1,2,3,4,5]
+  array_number = array_number.pop[5]
   
 end
 
