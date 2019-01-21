@@ -12,7 +12,6 @@ def add_element_to_end_of_array(array, element)
   
   array_of_numbers = [1,2,3,4]
   array_of_numbers = array_of_numbers.push[5]
-  
 end
 
 def add_element_to_start_of_array(array, element)
