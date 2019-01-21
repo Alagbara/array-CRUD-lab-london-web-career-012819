@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  list_books = ["calculus" , "Integration" , "probability"]
+  list_books = ["calculus" , "Integration" , "probability","owe"]
 end
 
 def add_element_to_end_of_array(array, element)
