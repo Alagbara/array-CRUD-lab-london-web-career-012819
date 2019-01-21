@@ -9,7 +9,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   
-  array = array.push [1]
+  array = array.push[1]
 
 end
 
